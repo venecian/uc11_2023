@@ -1,0 +1,7 @@
+private String nome;
+private Integer int;
+
+public class Categoria(){
+
+}
+
