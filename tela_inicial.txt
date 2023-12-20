@@ -1,0 +1,2 @@
+Sejam bem-vindo
+metodo de consulta a banco de dados
